@@ -52,6 +52,165 @@ export default function PartnersPage() {
           </a>
           .
         </p>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">
+          Bathroom Remodeling Partners
+        </h2>
+        <p>
+          Our bathroom remodeling partners help deliver design, product, and installation
+          services nationwide. Representative partners may include:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>Bath Experts</li>
+          <li>Bath Experts LLC</li>
+          <li>Bath Remodel by Capital</li>
+          <li>Bath Concepts</li>
+          <li>Billy.com</li>
+          <li>Jacuzzi</li>
+          <li>Premier Home Pros</li>
+          <li>Zintex</li>
+          <li>My Bath Colorado</li>
+          <li>Tubbs by Grubbs</li>
+          <li>New Pro</li>
+          <li>New Bath Today</li>
+          <li>Kohler</li>
+          <li>Long Home</li>
+          <li>BathWorks of Michigan</li>
+          <li>CareFree Home Pros</li>
+          <li>OpenHome</li>
+          <li>OpenHome Pros</li>
+          <li>Midwest Bath Company</li>
+          <li>Rocky Mountain Bath Company</li>
+          <li>Bath Wizard</li>
+          <li>American Standard</li>
+          <li>American Home Shield</li>
+        </ul>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">
+          Home Remodeling &amp; Exteriors
+        </h2>
+        <p>
+          For projects that go beyond the bathroom, Fresh Bath may also collaborate with
+          broader home remodeling and exterior improvement partners such as:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>1800 Remodel</li>
+          <li>American Remodeling</li>
+          <li>Victory Home Remodeling</li>
+          <li>Clear Choice Home Improvement</li>
+          <li>Future Remodeling</li>
+          <li>DaBella</li>
+          <li>Continental Siding</li>
+          <li>New Pro Home Remodeling</li>
+          <li>C Michael Exteriors</li>
+          <li>Champion Siding</li>
+          <li>Home Genius Exteriors</li>
+          <li>Capital Construction Contracting</li>
+          <li>National Home Project</li>
+          <li>Floor Coverings International</li>
+        </ul>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">Roofing Partners</h2>
+        <p>
+          Roofing and weather protection services may be delivered by specialized roofing
+          partners, including but not limited to:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>Crowther Roofing and Cooling</li>
+          <li>Advanced Roofing, Inc.</li>
+          <li>Anderson Windows</li>
+          <li>Baker Roofing Company</li>
+          <li>Best Choice Roofing</li>
+          <li>Bone Dry Roofing</li>
+          <li>Centimark Corporation</li>
+          <li>Corey Construction</li>
+          <li>Crown Roofing &amp; Waterproofing</li>
+          <li>Erie</li>
+          <li>Greenwood Industries, Inc.</li>
+          <li>Infinity Home Services</li>
+          <li>Jolly Roofing &amp; Contracting Company, Inc.</li>
+          <li>Kalkreuth Roofing and Sheet Metal</li>
+          <li>Legacy Restoration</li>
+          <li>Nations Roof</li>
+          <li>O&apos;Hara&apos;s Son Roofing Company</li>
+          <li>RestoreMasters</li>
+          <li>Roofing Corp of America</li>
+          <li>Stronghouse Solutions</li>
+          <li>Tecta America</li>
+          <li>CCX Roofing</li>
+          <li>Cody Clinger&apos;s Roofing</li>
+          <li>Roofix Technologies LLC</li>
+          <li>Breezy Roofing powered by Roofix</li>
+          <li>Breezy Roofing LLC</li>
+        </ul>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">
+          Window &amp; Door Partners
+        </h2>
+        <p>
+          When bathroom projects connect with windows or doors, we may work alongside:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>Champion Windows and Home Exteriors</li>
+          <li>Anderson Windows</li>
+          <li>Superior Home</li>
+          <li>SmartHome Solutions USA</li>
+          <li>NewStrata</li>
+        </ul>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">
+          Marketing &amp; Lead Generation Partners
+        </h2>
+        <p>
+          Fresh Bath may use specialized marketing and lead management providers to help
+          connect interested homeowners with renovation services, including:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>AA Media Inc</li>
+          <li>Ad Energy</li>
+          <li>CallCore Media</li>
+          <li>Direct Web Advertising</li>
+          <li>DSG Media</li>
+          <li>General Lab Marketing Solutions</li>
+          <li>Global Summit Media</li>
+          <li>Native Media, LLC</li>
+          <li>Presidio Interactive Corporation</li>
+          <li>Pointer Leads</li>
+          <li>VSC Digital Media</li>
+          <li>Adventum.io</li>
+          <li>Rex Direct Net, Inc.</li>
+          <li>Pointer Leads Inc.</li>
+          <li>Everconnect</li>
+          <li>Alpine Digital Group, Inc.</li>
+          <li>RGR Marketing</li>
+          <li>EverContractor</li>
+          <li>MediaDevoted1</li>
+          <li>SolarGiveback</li>
+          <li>Homelix</li>
+        </ul>
+
+        <h2 className="mt-8 text-lg font-semibold text-slate-900">
+          Financial &amp; Insurance Partners
+        </h2>
+        <p>
+          For financing or protection solutions that may be offered alongside remodeling
+          projects, we may collaborate with financial and insurance partners such as:
+        </p>
+        <ul className="ml-5 mt-2 list-disc space-y-1">
+          <li>Amerisave Mortgage</li>
+          <li>Union Home Mortgage</li>
+          <li>Rocket Mortgage</li>
+          <li>West Capital Lending</li>
+          <li>Key One Financial</li>
+          <li>Innovative Financial Group</li>
+          <li>Innovative Financial Partners LLC</li>
+        </ul>
+
+        <p className="mt-6 text-xs text-slate-500">
+          Partnerships are intended to provide comprehensive home remodeling solutions.
+          Partner lists are illustrative and subject to change. Availability may vary by
+          location and project requirements.
+        </p>
       </section>
     </main>
   );
