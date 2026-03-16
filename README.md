@@ -1,12 +1,18 @@
-# Fresh Bath Renovations Landing
+# freshbathremodel
+
+Transform your bathroom with expert design, quality materials, and professional installation. Free estimates, no obligation.
+
+---
+
+## Fresh Bath Renovations Landing
 
 Landing page de captación de leads en Next.js App Router.
 
-## Quick start
+### Quick start
 
-1. Instala Node.js 18+ y npm.
-2. Copia `.env.example` a `.env.local`.
-3. Configura `ZAPIER_FRESH_BATH_HOOK_URL` con tu webhook real.
+1. Instala Node.js 18+ y npm.  
+2. Copia `.env.example` a `.env.local`.  
+3. Configura `ZAPIER_FRESH_BATH_HOOK_URL` con tu webhook real.  
 4. Instala dependencias:
 
 ```bash
@@ -19,7 +25,7 @@ npm install
 npm run dev
 ```
 
-## Producción / pendientes
+### Producción / pendientes
 
 - Reemplaza GTM ID en `src/app/layout.tsx`.
 - Reemplaza Meta Pixel ID en `src/app/layout.tsx`.
